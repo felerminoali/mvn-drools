@@ -3,7 +3,7 @@
          xmlns="http://jboss.org/kie/6.0.0/kmodule">
     
     
-     <kbase name="basicRuleKB" packages="org.mvn.App">
+     <kbase name="BasicRuleKB" packages="org.mvn.App">
         <ksession name="BasicRuleKS"/>
     </kbase> 
 </kmodule>
