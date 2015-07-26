@@ -124,7 +124,12 @@
             <artifactId>kie-internal</artifactId>
             <version>6.2.0.Final</version>
         </dependency>
-
+        <!-- Lang -->
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-lang3</artifactId>
+            <version>3.0</version>
+        </dependency>
 
     </dependencies>
 
